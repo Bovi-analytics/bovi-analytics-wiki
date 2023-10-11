@@ -7,30 +7,30 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "behaviour/eating.html",
-    "href": "behaviour/eating.html",
-    "title": "Eating",
+    "objectID": "behaviour/walking.html",
+    "href": "behaviour/walking.html",
+    "title": "Walking",
     "section": "",
     "text": "Rumination has been defined as ‘the process of regurgitation of fibrous ingesta from the rumen to mouth, remastication, and reinsalivation followed by swallowing and returning of the material back to rumen’ (Welch et al. 1970). Rumination is an important component of the digestion process of ruminant animals with its primary role being the physical breakdown of roughages to facilitate its passage from the rumen into the small intestines (Sjaastad et al. 2003). The phenomenon of ‘chewing the cud’ or rechewing the previously ingested rumen contents is considered to be a unique feature of ruminants (Ruckebusch 1993). During rumination, digesta from the rumen is regurgitated, remasticated, and reswallowed (Ruckebusch, 1988).\n\n\n\n\n\n\nRumination cycle\nBout = sequence of rumination cycles\nInterbout = period between two bouts\nBoutlength = duration of a bout (sec)\nInterbout length = duration between two bouts (sec)\n\nTODO -&gt; define min sec before two bouts are 1\n\n\n\n\n\n\n15min -&gt; prediction of events such as the moment of calving\n2h -&gt; circadian rythm studies\n24h -&gt; feed intake/carbon emissions\n\n\n\n\n\nTotal daily rumination time (min/day)\nNumber of rumination bouts (n/day)\nAverage daily bout length (min/bout)\nAverage daily interbout length (min/bout)\n\n\n\n\n\n\n\n\n\nVisual observation\nVideo footage\nRumiwatch\nReticular/ruminal pressure"
   },
   {
-    "objectID": "behaviour/eating.html#definition-of-rumination-behaviour",
-    "href": "behaviour/eating.html#definition-of-rumination-behaviour",
-    "title": "Eating",
+    "objectID": "behaviour/walking.html#definition-of-rumination-behaviour",
+    "href": "behaviour/walking.html#definition-of-rumination-behaviour",
+    "title": "Walking",
     "section": "",
     "text": "Rumination has been defined as ‘the process of regurgitation of fibrous ingesta from the rumen to mouth, remastication, and reinsalivation followed by swallowing and returning of the material back to rumen’ (Welch et al. 1970). Rumination is an important component of the digestion process of ruminant animals with its primary role being the physical breakdown of roughages to facilitate its passage from the rumen into the small intestines (Sjaastad et al. 2003). The phenomenon of ‘chewing the cud’ or rechewing the previously ingested rumen contents is considered to be a unique feature of ruminants (Ruckebusch 1993). During rumination, digesta from the rumen is regurgitated, remasticated, and reswallowed (Ruckebusch, 1988)."
   },
   {
-    "objectID": "behaviour/eating.html#rumination-time",
-    "href": "behaviour/eating.html#rumination-time",
-    "title": "Eating",
+    "objectID": "behaviour/walking.html#rumination-time",
+    "href": "behaviour/walking.html#rumination-time",
+    "title": "Walking",
     "section": "",
     "text": "Rumination cycle\nBout = sequence of rumination cycles\nInterbout = period between two bouts\nBoutlength = duration of a bout (sec)\nInterbout length = duration between two bouts (sec)\n\nTODO -&gt; define min sec before two bouts are 1\n\n\n\n\n\n\n15min -&gt; prediction of events such as the moment of calving\n2h -&gt; circadian rythm studies\n24h -&gt; feed intake/carbon emissions\n\n\n\n\n\nTotal daily rumination time (min/day)\nNumber of rumination bouts (n/day)\nAverage daily bout length (min/bout)\nAverage daily interbout length (min/bout)"
   },
   {
-    "objectID": "behaviour/eating.html#reference",
-    "href": "behaviour/eating.html#reference",
-    "title": "Eating",
+    "objectID": "behaviour/walking.html#reference",
+    "href": "behaviour/walking.html#reference",
+    "title": "Walking",
     "section": "",
     "text": "Visual observation\nVideo footage\nRumiwatch\nReticular/ruminal pressure"
   },
@@ -63,30 +63,30 @@
     "text": "Visual observation\nVideo footage\nRumiwatch\nReticular/ruminal pressure"
   },
   {
-    "objectID": "behaviour/lying.html",
-    "href": "behaviour/lying.html",
-    "title": "Lying",
+    "objectID": "behaviour/eating.html",
+    "href": "behaviour/eating.html",
+    "title": "Eating",
     "section": "",
     "text": "Rumination has been defined as ‘the process of regurgitation of fibrous ingesta from the rumen to mouth, remastication, and reinsalivation followed by swallowing and returning of the material back to rumen’ (Welch et al. 1970). Rumination is an important component of the digestion process of ruminant animals with its primary role being the physical breakdown of roughages to facilitate its passage from the rumen into the small intestines (Sjaastad et al. 2003). The phenomenon of ‘chewing the cud’ or rechewing the previously ingested rumen contents is considered to be a unique feature of ruminants (Ruckebusch 1993). During rumination, digesta from the rumen is regurgitated, remasticated, and reswallowed (Ruckebusch, 1988).\n\n\n\n\n\n\nRumination cycle\nBout = sequence of rumination cycles\nInterbout = period between two bouts\nBoutlength = duration of a bout (sec)\nInterbout length = duration between two bouts (sec)\n\nTODO -&gt; define min sec before two bouts are 1\n\n\n\n\n\n\n15min -&gt; prediction of events such as the moment of calving\n2h -&gt; circadian rythm studies\n24h -&gt; feed intake/carbon emissions\n\n\n\n\n\nTotal daily rumination time (min/day)\nNumber of rumination bouts (n/day)\nAverage daily bout length (min/bout)\nAverage daily interbout length (min/bout)\n\n\n\n\n\n\n\n\n\nVisual observation\nVideo footage\nRumiwatch\nReticular/ruminal pressure"
   },
   {
-    "objectID": "behaviour/lying.html#definition-of-rumination-behaviour",
-    "href": "behaviour/lying.html#definition-of-rumination-behaviour",
-    "title": "Lying",
+    "objectID": "behaviour/eating.html#definition-of-rumination-behaviour",
+    "href": "behaviour/eating.html#definition-of-rumination-behaviour",
+    "title": "Eating",
     "section": "",
     "text": "Rumination has been defined as ‘the process of regurgitation of fibrous ingesta from the rumen to mouth, remastication, and reinsalivation followed by swallowing and returning of the material back to rumen’ (Welch et al. 1970). Rumination is an important component of the digestion process of ruminant animals with its primary role being the physical breakdown of roughages to facilitate its passage from the rumen into the small intestines (Sjaastad et al. 2003). The phenomenon of ‘chewing the cud’ or rechewing the previously ingested rumen contents is considered to be a unique feature of ruminants (Ruckebusch 1993). During rumination, digesta from the rumen is regurgitated, remasticated, and reswallowed (Ruckebusch, 1988)."
   },
   {
-    "objectID": "behaviour/lying.html#rumination-time",
-    "href": "behaviour/lying.html#rumination-time",
-    "title": "Lying",
+    "objectID": "behaviour/eating.html#rumination-time",
+    "href": "behaviour/eating.html#rumination-time",
+    "title": "Eating",
     "section": "",
     "text": "Rumination cycle\nBout = sequence of rumination cycles\nInterbout = period between two bouts\nBoutlength = duration of a bout (sec)\nInterbout length = duration between two bouts (sec)\n\nTODO -&gt; define min sec before two bouts are 1\n\n\n\n\n\n\n15min -&gt; prediction of events such as the moment of calving\n2h -&gt; circadian rythm studies\n24h -&gt; feed intake/carbon emissions\n\n\n\n\n\nTotal daily rumination time (min/day)\nNumber of rumination bouts (n/day)\nAverage daily bout length (min/bout)\nAverage daily interbout length (min/bout)"
   },
   {
-    "objectID": "behaviour/lying.html#reference",
-    "href": "behaviour/lying.html#reference",
-    "title": "Lying",
+    "objectID": "behaviour/eating.html#reference",
+    "href": "behaviour/eating.html#reference",
+    "title": "Eating",
     "section": "",
     "text": "Visual observation\nVideo footage\nRumiwatch\nReticular/ruminal pressure"
   },
@@ -154,30 +154,30 @@
     "text": "Visual observation\nVideo footage\nRumiwatch\nReticular/ruminal pressure"
   },
   {
-    "objectID": "behaviour/walking.html",
-    "href": "behaviour/walking.html",
-    "title": "Walking",
+    "objectID": "behaviour/lying.html",
+    "href": "behaviour/lying.html",
+    "title": "Lying",
     "section": "",
     "text": "Rumination has been defined as ‘the process of regurgitation of fibrous ingesta from the rumen to mouth, remastication, and reinsalivation followed by swallowing and returning of the material back to rumen’ (Welch et al. 1970). Rumination is an important component of the digestion process of ruminant animals with its primary role being the physical breakdown of roughages to facilitate its passage from the rumen into the small intestines (Sjaastad et al. 2003). The phenomenon of ‘chewing the cud’ or rechewing the previously ingested rumen contents is considered to be a unique feature of ruminants (Ruckebusch 1993). During rumination, digesta from the rumen is regurgitated, remasticated, and reswallowed (Ruckebusch, 1988).\n\n\n\n\n\n\nRumination cycle\nBout = sequence of rumination cycles\nInterbout = period between two bouts\nBoutlength = duration of a bout (sec)\nInterbout length = duration between two bouts (sec)\n\nTODO -&gt; define min sec before two bouts are 1\n\n\n\n\n\n\n15min -&gt; prediction of events such as the moment of calving\n2h -&gt; circadian rythm studies\n24h -&gt; feed intake/carbon emissions\n\n\n\n\n\nTotal daily rumination time (min/day)\nNumber of rumination bouts (n/day)\nAverage daily bout length (min/bout)\nAverage daily interbout length (min/bout)\n\n\n\n\n\n\n\n\n\nVisual observation\nVideo footage\nRumiwatch\nReticular/ruminal pressure"
   },
   {
-    "objectID": "behaviour/walking.html#definition-of-rumination-behaviour",
-    "href": "behaviour/walking.html#definition-of-rumination-behaviour",
-    "title": "Walking",
+    "objectID": "behaviour/lying.html#definition-of-rumination-behaviour",
+    "href": "behaviour/lying.html#definition-of-rumination-behaviour",
+    "title": "Lying",
     "section": "",
     "text": "Rumination has been defined as ‘the process of regurgitation of fibrous ingesta from the rumen to mouth, remastication, and reinsalivation followed by swallowing and returning of the material back to rumen’ (Welch et al. 1970). Rumination is an important component of the digestion process of ruminant animals with its primary role being the physical breakdown of roughages to facilitate its passage from the rumen into the small intestines (Sjaastad et al. 2003). The phenomenon of ‘chewing the cud’ or rechewing the previously ingested rumen contents is considered to be a unique feature of ruminants (Ruckebusch 1993). During rumination, digesta from the rumen is regurgitated, remasticated, and reswallowed (Ruckebusch, 1988)."
   },
   {
-    "objectID": "behaviour/walking.html#rumination-time",
-    "href": "behaviour/walking.html#rumination-time",
-    "title": "Walking",
+    "objectID": "behaviour/lying.html#rumination-time",
+    "href": "behaviour/lying.html#rumination-time",
+    "title": "Lying",
     "section": "",
     "text": "Rumination cycle\nBout = sequence of rumination cycles\nInterbout = period between two bouts\nBoutlength = duration of a bout (sec)\nInterbout length = duration between two bouts (sec)\n\nTODO -&gt; define min sec before two bouts are 1\n\n\n\n\n\n\n15min -&gt; prediction of events such as the moment of calving\n2h -&gt; circadian rythm studies\n24h -&gt; feed intake/carbon emissions\n\n\n\n\n\nTotal daily rumination time (min/day)\nNumber of rumination bouts (n/day)\nAverage daily bout length (min/bout)\nAverage daily interbout length (min/bout)"
   },
   {
-    "objectID": "behaviour/walking.html#reference",
-    "href": "behaviour/walking.html#reference",
-    "title": "Walking",
+    "objectID": "behaviour/lying.html#reference",
+    "href": "behaviour/lying.html#reference",
+    "title": "Lying",
     "section": "",
     "text": "Visual observation\nVideo footage\nRumiwatch\nReticular/ruminal pressure"
   },

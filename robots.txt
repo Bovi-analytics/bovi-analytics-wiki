@@ -1,1 +1,1 @@
-Sitemap: https://Bovi-analytics.github.io/bovi-analytics-wiki/sitemap.xml
+Sitemap: https://wiki.bovi-analytics.com/sitemap.xml
