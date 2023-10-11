@@ -1,0 +1,25 @@
+author: Miel Hostens
+
+instructor:
+  name: Ass. Prof. Dr. Miel Hostens
+  name_no_title: Miel Hostens
+  email: m.m.hostens@uu.nl
+  linkedin:
+  url: "https://wiki.bovi-analytics.com"
+  twitter: "@MielHostens"
+  github: "https://github.com/Bovi-Analytics/bovi-analytics-wiki"
+
+lab:
+  location: "Yalelaan 7, 3584 CL Utrecht"
+  github: "https://github.com/Bovi-Analytics/"
+  url: "https://www.bovi-analytics.com"
+  copyright_year: "2023"
+  slack: "https://bovi-analytics.slack.com"
+
+university:
+  name: Utrecth University
+  url: "https://www.uu.nl"
+
+school:
+  name: Factulty of Veterinary Medicine
+  url: "https://www.uu.nl/en/organisation/faculty-of-veterinary-medicine"

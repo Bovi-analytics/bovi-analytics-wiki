@@ -1,0 +1,55 @@
+---
+title: "Lying"
+---
+
+# Rumination
+
+## Definition of rumination behaviour
+
+Rumination has been defined as 'the process of regurgitation of fibrous ingesta from the rumen to mouth, remastication, and reinsalivation followed by swallowing and returning of the material back to rumen' (Welch et al. 1970). Rumination is an important component of the digestion process of ruminant animals with its primary role being the physical breakdown of roughages to facilitate its passage from the rumen into the small intestines (Sjaastad et al. 2003). The phenomenon of 'chewing the cud' or rechewing the previously ingested rumen contents is considered to be a unique feature of ruminants (Ruckebusch 1993). During rumination, digesta from the rumen is regurgitated, remasticated, and reswallowed (Ruckebusch, 1988).
+
+## Rumination time
+
+### Terminology
+
+-   Rumination cycle
+
+-   Bout = sequence of rumination cycles
+
+-   Interbout = period between two bouts
+
+-   Boutlength = duration of a bout (sec)
+
+-   Interbout length = duration between two bouts (sec)
+
+    -   TODO -\> define min sec before two bouts are 1
+
+### Dimensions
+
+-   15min -\> prediction of events such as the moment of calving
+
+-   2h -\> circadian rythm studies
+
+-   24h -\> feed intake/carbon emissions
+
+### Aggregation
+
+-   Total daily rumination time (min/day)
+
+-   Number of rumination bouts (n/day)
+
+-   Average daily bout length (min/bout)
+
+-   Average daily interbout length (min/bout)
+
+## Devices
+
+## Reference
+
+1.  Visual observation
+
+2.  Video footage
+
+3.  Rumiwatch
+
+4.  Reticular/ruminal pressure
