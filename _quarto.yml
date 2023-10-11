@@ -1,0 +1,57 @@
+execute:
+  freeze: auto
+project:
+  type: website
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    toc-location: right
+    highlight-style: monokai
+website:
+  title: "Bovi-Analytics Wiki"
+  navbar:
+    pinned: true
+    background: "#4287f5"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+    right:
+      - icon: slack
+        href: "https://bovi-analytics.slack.com"
+        aria-label: Slack
+      - icon: github
+        href: "https://github.com/Bovi-Analytics/"
+        aria-label: GitHub
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Main"
+        contents:
+          - index.qmd
+      - section: "Behaviour"
+        contents:
+          - behaviour/rumination.qmd
+          - behaviour/lying.qmd
+          - behaviour/eating.qmd
+          - behaviour/walking.qmd
+          - behaviour/standing.qmd
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} {{< var lab.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub]({{< var lab.github >}})
+
+editor: visual
+
+
+
